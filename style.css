@@ -1,0 +1,125 @@
+
+body{
+   
+    background: linear-gradient(0%black 100%black);
+}
+ 
+.think{
+    margin-left: 136px;
+    width: 155px;
+}
+.nbar{
+    height:80px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+}
+  li{
+   position: relative;
+   display: inline-block;
+    margin-top:-46px;
+    margin-left: 20px;
+    color: white;
+}
+
+a{
+    color: white;
+    text-decoration:none;
+}
+.link1:hover{
+    background-color: white;
+    color: skyblue;
+    transform: scale(1.5);
+    display: inline-block;
+    height: 50px;
+}
+.link2:hover{
+    background-color: white;
+    color: skyblue;
+    transform: scale(1.5);
+    display: inline-block;
+    height: 50px;
+   }
+.link3:hover{
+    background-color: white;
+    color: skyblue;
+    transform: scale(1.5);
+    display: inline-block;
+    height: 50px;
+}
+.link4:hover{
+    background-color: white;
+    color: skyblue;
+    transform: scale(1.5);
+    display: inline-block;
+    height: 50px;
+}
+.link5:hover{
+    background-color: white;
+    color: skyblue;
+    transform: scale(1.5);
+    display: inline-block;
+    height: 50px;
+}
+.flag{
+    margin-bottom:-18px;
+}
+/* .lg{
+    height: 300px;
+} */
+.image{
+    position: relative;
+    margin-left: 158px;
+    width: 389px;
+}
+.para1{
+    color: white;
+    margin-left: 579px;
+    margin-top: -45px;
+    font-size: 24px;
+}
+.para2{
+    /* font-size: 24px; */
+    color: white;
+    margin-left:158px;
+    line-height: 22px;
+    width: 573px;
+    margin-top: 56px;
+}
+.para3{
+    color: white;
+    margin-left: 158px;
+    font-size: 17px;
+    width: 445px;
+    line-height: 22px;
+}
+.para4{
+    color: white;
+    margin-left: 746px;
+    margin-top: 28px;
+    font-size: 17px ;
+}
+/* .btn{
+    width: 40;
+
+} */
+.button{
+    background-color: black;
+    color: white;
+    width: 10;
+    height: 5;
+    margin-left: 746px;
+    margin-top: 28px ;
+    letter-spacing: 1px;
+    border-radius: 10%;
+    font-weight: bold;
+    transition: transform .2s;
+    cursor: pointer;
+}
+.button:hover{
+    background-color: white;
+    color: black;
+    transform: scale(1.5);
+}
